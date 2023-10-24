@@ -1,3 +1,7 @@
+*{
+    background-color: darkgray;
+}
+
 .form{
     align-items: center;
     height: 30px;
